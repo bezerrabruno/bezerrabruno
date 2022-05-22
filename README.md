@@ -1,10 +1,12 @@
 ### Olá 👋
 
-- 🔭 Hoje trabalho com front-end mobile.
-- 🌱 Estudando Flutter.
-- 💬 Pode me perguntar sobre dart, flutter ou um job quem sabe.
+- 🔭 Hoje trabalho com Flutter, no desenvolvimento mobile, web, desktop.
+- 🌱 Também uso Figma para designer, Firebase com toda a sua gama de produtos.
+- 💬 Pode me perguntar sobre designer, front-end, back-end ou um job quem sabe.
 - 📧 Contate-me no email: bmb_bezerra@outlook.com
 - 📟 Contate-me no linkedin: https://www.linkedin.com/in/bruno-bezerra-7b07531a4
+
+Conheça também o meu site: https://bruno-portfolio-bmb.firebaseapp.com/#/projects/
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
