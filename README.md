@@ -1,6 +1,6 @@
-### Olá 👋
+## Olá 👋
 
-## Meu nome é Bruno Martins Bezerra
+### Eu sou Bruno Martins Bezerra, Prazer.
 
 - 🔭 Hoje trabalho com Flutter, no desenvolvimento mobile, web, deskto, front e back.
 - 🌱 Uso o Figma para designer e o Firebase com toda a sua gama de produtos.
