@@ -1,8 +1,10 @@
 ### Olá 👋
 
-- 🔭 Hoje trabalho com Flutter, no desenvolvimento mobile, web, desktop.
-- 🌱 Também uso Figma para designer, Firebase com toda a sua gama de produtos.
-- 💬 Pode me perguntar sobre designer, front-end, back-end ou um job quem sabe.
+## Meu nome é Bruno Martins Bezerra
+
+- 🔭 Hoje trabalho com Flutter, no desenvolvimento mobile, web, deskto, front e back.
+- 🌱 Uso o Figma para designer e o Firebase com toda a sua gama de produtos.
+- 💬 Pode me perguntar sobre front-end, back-end, designer ou um job quem sabe.
 - 📧 Contate-me no email: bmb_bezerra@outlook.com
 - 📟 Contate-me no linkedin: https://www.linkedin.com/in/bruno-bezerra-7b07531a4
 
