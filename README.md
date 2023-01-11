@@ -19,5 +19,7 @@ Conheça também o meu site: https://bmb-portfolio.dev
 <div style="display: inline_block"><br>
   <a href="https://github.com/bezerrabruno">
   <img height="180em" src="https://github-readme-stats-one-beta-63.vercel.app/api?username=bezerrabruno&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats-one-beta-63.vercel.app/api/top-langs/?username=bezerrabruno&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-one-beta-63.vercel.app/api/top-langs/?username=bezerrabruno&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats-one-beta-63.vercel.app/api?username=bezbruno&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats-one-beta-63.vercel.app/api/top-langs/?username=bezbruno&layout=compact&langs_count=7&theme=transparent"/>
 <div>
