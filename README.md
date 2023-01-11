@@ -18,6 +18,9 @@ Conheça também o meu site: https://bmb-portfolio.dev
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 <div style="display: inline_block"><br>
   <a href="https://github.com/bezerrabruno">
-  <img height="180em" src="https://github-readme-stats-one-beta-63.vercel.app/api?username=bezerrabruno&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats-one-beta-63.vercel.app/api/top-langs/?username=bezerrabruno&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="190em" src="https://github-readme-stats-one-beta-63.vercel.app/api?username=bezerrabruno&show_icons=true&theme=transparent&count_private=true"/>
+  <a href="https://github.com/bezbruno">
+  <img height="190em" src="https://github-readme-stats-one-beta-63.vercel.app/api?username=bezbruno&show_icons=true&theme=transparent&count_private=true"/>
+  <img height="300em" src="https://github-readme-stats-one-beta-63.vercel.app/api/top-langs/?username=bezerrabruno&langs_count=10&layout=compact&theme=transparent"/>
 <div>
+  
