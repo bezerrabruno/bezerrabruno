@@ -22,5 +22,5 @@ Conheça também o meu site: https://bmb-portfolio.dev
   <img height="180em" src="https://github-readme-stats-one-beta-63.vercel.app/api/top-langs/?username=bezerrabruno&layout=compact&langs_count=7&theme=transparent"/>
   <a href="https://github.com/bezbruno">
   <img height="180em" src="https://github-readme-stats-one-beta-63.vercel.app/api?username=bezbruno&show_icons=true&theme=transparent"/>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/bezbruno/tree/main/README.mb">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/bezbruno/info/blob/main/README.md">
 <div>
