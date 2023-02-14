@@ -5,7 +5,7 @@
 - 🔭 Hoje trabalho com Flutter, no desenvolvimento mobile, web, deskto, front e back.
 - 🍫 Tambem trabalho com Java e Javascript, no desenvolvimento de apis back-end.
 - 🌱 Uso o Figma para designer e o Firebase com toda a sua gama de produtos.
-- 💬 Pode me perguntar sobre front-end, back-end, designer ou um job quem sabe kkk.
+- 💬 Pode me perguntar sobre front-end, back-end ou designer.
 - 📧 Contate-me no email: bmb_bezerra@outlook.com
 - 📟 Contate-me no linkedin: https://www.linkedin.com/in/bruno-bezerra-7b07531a4
 
