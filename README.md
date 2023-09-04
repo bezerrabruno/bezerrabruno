@@ -24,3 +24,4 @@ Conheça também o meu site: https://bmb-portfolio.dev
   <img height="300em" src="https://github-readme-stats-mu-eight-84.vercel.app/api/top-langs/?username=bezerrabruno&langs_count=10&layout=compact&theme=transparent"/>
 <div>
   
+Status: Finalizado
