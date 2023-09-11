@@ -6,7 +6,7 @@
 - 🍫 Tambem trabalho com Java e Javascript, no desenvolvimento de apis back-end.
 - 🌱 Uso o Figma para designer e o Firebase com toda a sua gama de produtos.
 - 💬 Pode me perguntar sobre front-end, back-end ou designer.
-- 📧 Contate-me no email: bmb_bezerra@outlook.com
+- 📧 Contate-me no email: bmb.bezerra0@gmail.com
 - 📟 Contate-me no linkedin: https://www.linkedin.com/in/bruno-bezerra-7b07531a4
 
 Conheça também o meu site: https://bmb-portfolio.dev
