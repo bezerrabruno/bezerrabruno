@@ -1,34 +1,57 @@
-# Olá 👋
+<p align="center">
+  <img src="assets/perfil.png" width="150" alt="Bruno Martins Bezerra"/>
+</p>
 
-## Me chamo Bruno Martins Bezerra, Prazer!
+<h1 align="center">Bruno Martins Bezerra 👨‍💻</h1>
 
-- 🔭 Atualmente trabalho com **Dart/Flutter**, no desenvolvimento mobile, web, desktop.
-- 🍫 Também trabalho com **Java** e **GO** no desenvolvimento de Back-End.
-- 🌱 Uso o **Figma** para designer e o **Firebase** com toda a sua gama de produtos.
-- 💬 Sinta-se à vontade para me perguntar sobre desenvolvimento; espero conseguir responder kkkk!
-- 📧 Contate-me pelo email: [bmb.bezerra0@gmail.com](mailto:bmb.bezerra0@gmail.com)
-- 📟 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/bruno-bezerra-7b07531a4).
-- 🌐 Veja meu trabalho em [Meu Site](https://bmb-portfolio.dev).
+<p align="center">
+  <strong>Full Stack & Software Engineer</strong><br>
+  Amante de código limpo, boas práticas e soluções inteligentes com Flutter, Go e IA.
+</p>
 
-### Tecnologias que utilizo:
-<div style="letter-spacing: 5px;">
-  <img align="center" alt="Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain.svg">
-  <img align="center" alt="Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
+<br>
+<br>
+
+<div align="center">
+  <p 🔭 Atuo com <strong>Dart/Flutter</strong> no desenvolvimento de aplicações mobile, web e desktop.<br>
+  🍫 Também desenvolvo soluções Back-End com <strong>Java</strong> e <strong>Go</strong>.<br>
+  🎨 Utilizo o <strong>Figma</strong> para design de interfaces e o <strong>Firebase</strong> em toda sua gama de produtos.<br>
+  💬 Gosto de trocar ideias sobre desenvolvimento — fique à vontade para perguntar!<br>
+  📧 E-mail: <a href="mailto:bmb.bezerra0@gmail.com">bmb.bezerra0@gmail.com</a><br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/bruno-bezerra-7b07531a4" target="_blank">Clique aqui</a><br>
+  🌐 Portfólio: <a href="https://bmb-portfolio.dev" target="_blank">bmb-portfolio.dev</a><br>
 </div>
 
-### Estatísticas do GitHub:
-<div>
+<br>
+<br>
+
+<div align="center" style="letter-spacing: 5px;">
+  <img align="center" alt="Dart" height="48" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img align="center" alt="Go" height="48" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img align="center" alt="Python" height="48" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Java" height="48" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Git" height="48" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<br>
+<br>
+  <img align="center" alt="Flutter" height="48" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img align="center" alt="Anaconda" height="48" src="https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white">
+  <img align="center" alt="Spring" height="48" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="Firebase" height="48" src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+</div>
+
+<br>
+<br>
+
+<div align="center">
   <a href="https://github.com/bezerrabruno">
   <img height="190em" src="https://github-readme-stats-mu-eight-84.vercel.app/api?username=bezerrabruno&show_icons=true&theme=transparent&count_private=true"/>
+  <br>
   <img height="300em" src="https://github-readme-stats-mu-eight-84.vercel.app/api/top-langs/?username=bezerrabruno&langs_count=10&layout=compact&theme=transparent"/>
 </div>
 
+<br>
+<br>
 
 <div>
-Status: Finalizado
+Status: 2
 <div>
